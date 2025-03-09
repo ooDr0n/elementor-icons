@@ -5,3 +5,5 @@
 ## Copyright
 
 Some icons in this library are based on Font Awesome 4.7.0 licensed under SIL OFL 1.1
+
+
